@@ -2,3 +2,6 @@
 // Copyright 2012 Google Inc. johnjbarton@google.com
 
 One page prototype for Querypoint debugging
+
+
+This project moved to https://github.com/google/qpp
